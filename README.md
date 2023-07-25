@@ -1,5 +1,3 @@
-Certainly! Here's a complete README template for your project:
-
 #Search_binary
 
 This project implements a recursive binary search algorithm to find a target value in a sorted list.
